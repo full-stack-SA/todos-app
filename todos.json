@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "task": "learn mongoDB",
+        "user": "Julie",
+        "isDone": false,
+        "category": "sschool"
+    },
+    {
+        "id": "3",
+        "task": "trst",
+        "user": "Shaked",
+        "isDone": false,
+        "category": "home"
+    },
+    {
+        "id": 0.1659256833916838,
+        "task": "new todo",
+        "user": "Shaked",
+        "isDone": false,
+        "category": "home"
+    },
+    {
+        "id": "MC41OTE0NjI3ODY0MzUwNjQx",
+        "task": "this is updated todo",
+        "user": "Shaked",
+        "isDone": false,
+        "category": "home"
+    }
+]
