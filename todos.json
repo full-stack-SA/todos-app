@@ -1,14 +1,14 @@
 [
     {
         "id": "1",
-        "task": "learn mongoDB",
+        "task": "{}",
         "user": "Julie",
         "isDone": false,
         "category": "sschool"
     },
     {
         "id": "3",
-        "task": "trst",
+        "task": "{}",
         "user": "Shaked",
         "isDone": false,
         "category": "home"
@@ -21,10 +21,43 @@
         "category": "home"
     },
     {
-        "id": "MC41OTE0NjI3ODY0MzUwNjQx",
-        "task": "this is updated todo",
+        "id": "MC4zNjY4MjI3NzY0MTkyNzA0",
+        "task": "{}",
         "user": "Shaked",
         "isDone": false,
         "category": "home"
+    },
+    {
+        "id": "MC4yMjcwNjg4MTE0NzUwOTkxNg==",
+        "task": "{}",
+        "user": "Shaked",
+        "isDone": false,
+        "category": "home"
+    },
+    {
+        "id": "MC45NzczOTI0MzY2NDkwNDE2",
+        "task": "{}",
+        "user": "Shaked",
+        "isDone": false,
+        "category": "home"
+    },
+    {
+        "id": "MC4xNDk1Njg2MTI4ODE1MDI1OA==",
+        "task": "{\"task\":\"new todo\"}",
+        "user": "Shaked",
+        "isDone": false,
+        "category": "home"
+    },
+    {
+        "id": "MC44ODY0NTIyMTQ1OTM4Mjcy",
+        "task": "add to do",
+        "user": "Julie",
+        "category": "school"
+    },
+    {
+        "id": "MC4yNTE2MjQ5MzUxMjU5NTc2",
+        "task": "add new to do",
+        "user": "Aristo",
+        "category": "school"
     }
 ]

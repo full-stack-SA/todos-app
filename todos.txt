@@ -1,4 +1,0 @@
-Learn how to run node application
-my new todo
-another todo
-do all homework
